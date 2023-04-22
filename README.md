@@ -1,4 +1,4 @@
-# ALX-SWE Programme TEAM WORK [0x11. C - printf]
+# ALX Programme TEAM WORK [0x11. C - printf]
 
 ## Requirements
 ## General
